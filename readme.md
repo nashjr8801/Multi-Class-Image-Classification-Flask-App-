@@ -7,7 +7,8 @@ PART1
 -give the dataset path address<br/>
 -run the notebook<br/>
 -model will be saved in the drive upload it to models folder in the flask app(Dafault is provided)<br/>
-Step to run application:<br/>
+<br/>
+<strong>Step to run application:</strong><br/>
 Step 1:	Create the copy of the project.<br/>
 Step 2: Open command prompt and change your current path to folder where you can find 'app.py' file.<br/>
 Step 3: Use command below to install required dependencies:
