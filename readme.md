@@ -8,5 +8,4 @@ python -m pip install -r requirements.txt
 Step 4: Run application by command;
 python app.py
 You will get url copy it and paste in browser.
-
 Step 5: You have sample_data folder where you can get images to test.
